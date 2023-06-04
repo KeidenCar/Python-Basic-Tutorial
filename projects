@@ -1,0 +1,5 @@
+message="hello my wonderful doggo"
+print(message)
+
+message='my wife is amazing'
+print(message)
